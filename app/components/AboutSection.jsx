@@ -96,6 +96,7 @@ const AboutSection = () => {
         <Image
           className="rounded-2xl"
           src="/images/a1.png"
+          alt="About Image"
           width={500}
           height={500}
         />
