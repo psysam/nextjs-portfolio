@@ -50,7 +50,7 @@ const HeroSection = () => {
               Hire Me!
             </Link>
             <Link
-              href="/"
+              href="https://github.com/psysam/psysam/blob/main/assets/prince_resume.pdf"
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-t from-gray-50 to-purple-500  text-white mt-3 hover:shadow-lg hover:shadow-gray-400 "
             >
               <span className="block bg-[#121212] hover:bg-gradient-to-t from-gray-50 to-purple-500 rounded-full px-5 py-2  font-extrabold font-sans ">
