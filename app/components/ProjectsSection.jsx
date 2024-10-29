@@ -8,13 +8,14 @@ const projectsData = [
   {
     id: 1,
     title: "Web Dev Compiler",
-    description: "A HTML,CSS and JavaScript Compiler with Authentication using MERN Stack",
+    description:
+      "A HTML,CSS and JavaScript Compiler with Authentication using MERN Stack",
     image: "/images/projects/wd.png",
     tag: ["All", "Full Stack"],
     gitUrl: "https://github.com/psysam/WD-compiler",
-    previewUrl: "/",
+    previewUrl: "https://b_vn0rgbjmlik.v0.build/",
   },
-  
+
   {
     id: 2,
     title: "Personal AI",
@@ -22,7 +23,7 @@ const projectsData = [
     image: "/images/projects/gemini.jfif",
     tag: ["All", "Front End"],
     gitUrl: "https://github.com/psysam/Gemini-Clone",
-    previewUrl: "/",
+    previewUrl: "https://gemini-clone-gilt-two.vercel.app/",
   },
 
   {
@@ -32,7 +33,7 @@ const projectsData = [
     image: "/images/projects/spotify.jfif",
     tag: ["All", "Full Stack"],
     gitUrl: "https://github.com/psysam/spotify-clone",
-    previewUrl: "/",
+    previewUrl: "https://musicplayepsy.vercel.app/",
   },
 
   {
@@ -42,7 +43,7 @@ const projectsData = [
     image: "/images/projects/edusity.jfif",
     tag: ["All", "Full Stack"],
     gitUrl: "https://github.com/psysam/edusity",
-    previewUrl: "/",
+    previewUrl: "https://edusitypsy.vercel.app/",
   },
 
   {
@@ -72,7 +73,7 @@ const projectsData = [
     image: "/images/projects/fasteat.png",
     tag: ["All", "Front End"],
     gitUrl: "https://github.com/psysam/food-delivery",
-    previewUrl: "/",
+    previewUrl: "https://food-delivery-delta-murex.vercel.app/",
   },
 
   {
@@ -82,7 +83,7 @@ const projectsData = [
     image: "/images/projects/parallax.png",
     tag: ["All", "Front End"],
     gitUrl: "https://github.com/psysam/parallax-scrolling-website",
-    previewUrl: "/",
+    previewUrl: "https://parallax-scrolling-website-gamma.vercel.app/",
   },
 
   {
@@ -92,7 +93,7 @@ const projectsData = [
     image: "/images/projects/login.jfif",
     tag: ["All", "Front End"],
     gitUrl: "https://github.com/psysam/login-form",
-    previewUrl: "/",
+    previewUrl: "https://login-form-ten-brown.vercel.app/",
   },
 
   {
@@ -102,7 +103,7 @@ const projectsData = [
     image: "/images/projects/calci.png",
     tag: ["All", "Front End"],
     gitUrl: "https://github.com/psysam/Calculator",
-    previewUrl: "/",
+    previewUrl: "https://calculator-blue-six-35.vercel.app/",
   },
 
   {
@@ -112,7 +113,7 @@ const projectsData = [
     image: "/images/projects/myntra.jfif",
     tag: ["All", "Full Stack"],
     gitUrl: "https://github.com/psysam/myntra-clone",
-    previewUrl: "/",
+    previewUrl: "https://b_vn0rgbjmlik.v0.build/",
   },
 
   {
@@ -132,7 +133,7 @@ const projectsData = [
     image: "/images/projects/news.png",
     tag: ["All", "Full Stack"],
     gitUrl: "https://github.com/psysam/news-mag",
-    previewUrl: "/",
+    previewUrl: "https://news-mag-amber.vercel.app/",
   },
 
   {
@@ -142,7 +143,7 @@ const projectsData = [
     image: "/images/projects/p1.png",
     tag: ["All", "Front End"],
     gitUrl: "https://github.com/psysam/Portfolio",
-    previewUrl: "/",
+    previewUrl: "https://portfolio-nu-seven-12.vercel.app/",
   },
 ];
 
